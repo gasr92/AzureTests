@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "conn": "Endpoint=sb://gasraztestssb.servicebus.windows.net/;SharedAccessKeyName=rw;SharedAccessKey=r/zPy59bXP2dmbm9OR3SuszROIDDoLU59cborrZfxtc=;"
+  }
+}

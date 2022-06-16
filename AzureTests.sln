@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicebusTest.Console", "ServicebusTest.Console\ServicebusTest.Console.csproj", "{7A425085-7FF7-4D5B-A1AB-86C1365997A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicebusTest.AzureFunctionApp", "ServicebusTest.AzureFunctionApp\ServicebusTest.AzureFunctionApp.csproj", "{2471280F-D2FB-4696-8987-AFB86BA2F60E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A425085-7FF7-4D5B-A1AB-86C1365997A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A425085-7FF7-4D5B-A1AB-86C1365997A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A425085-7FF7-4D5B-A1AB-86C1365997A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A425085-7FF7-4D5B-A1AB-86C1365997A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2471280F-D2FB-4696-8987-AFB86BA2F60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2471280F-D2FB-4696-8987-AFB86BA2F60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2471280F-D2FB-4696-8987-AFB86BA2F60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2471280F-D2FB-4696-8987-AFB86BA2F60E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C23947-F958-4860-A279-D925FCFE652C}
+	EndGlobalSection
+EndGlobal
